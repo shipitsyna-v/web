@@ -3,6 +3,8 @@
 import jsonfile from 'jsonfile';
 
 import { IUser } from '@src/models/User';
+import { ExampleType } from '@src/models/Example';
+
 
 
 // **** Variables **** //
@@ -14,6 +16,7 @@ const DB_FILE_NAME = 'database.json';
 
 interface IDb {
   users: IUser[];
+  examples: ExampleType[];
 }
 
 

@@ -18,5 +18,15 @@
       "email": "nova@prospect.com",
       "created": "2024-03-22T05:42:18.895Z"
     }
+  ],
+  "examples": [
+    {
+      "id": 143027113460,
+      "name": "Sonic "
+    },
+    {
+      "id": 143027113460,
+      "name": "Knickles "
+    }
   ]
 }
